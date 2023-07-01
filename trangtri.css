@@ -1,0 +1,44 @@
+li {
+    color:blueviolet;
+    font-size:x-large;
+    font-weight:bolder;
+}
+
+form {
+    font-size:larger;
+    color:white;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.popi {
+    margin:value;
+    color:rgb(173, 130, 238);
+    font-family:fantasy;
+    font-size: x-large;
+}
+.room.room1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; ;
+    font-size: larger;
+    font-weight: 400px;
+    color:hotpink;
+    border: 2px dashed;
+}
+
+#school {
+    text-align: center;
+    text-decoration: none ;
+    text-shadow: 30px;
+    background-color:rgb(234, 182, 235);
+    padding:25px;
+    font-family:inherit;
+    color:white;
+    text-transform:uppercase;
+}
